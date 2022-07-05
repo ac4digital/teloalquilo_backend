@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "id_owner": "1",
+        "title": "Hermosa casa para la venta",
+        "price": 1000000,
+        "photos": "1.jpg",
+        "description": "Hermosa casa con 4 habitaciones, piscina, 2 garages",
+        "zone": "Sur",
+        "city": "Cali",
+        "neighbord": "Ciudad Jardin",
+        "type": "Venta"
+    },
+    {
+        "id": "2",
+        "id_owner": "1",
+        "title": "Hermosa apto para alquilar",
+        "price": 2000000,
+        "photos": "2.jpg",
+        "description": "Hermoso apto con 3 habitaciones, piscina, 2 garages",
+        "zone": "Sur",
+        "city": "Cali",
+        "neighbord": "Ciudad Jardin",
+        "type": "Alquiler"
+    },
+    {
+        "id": "3",
+        "id_owner": "1",
+        "title": "Hermosa finca para la venta",
+        "price": 3000000,
+        "photos": "3.jpg",
+        "description": "Hermosa finca con 4 habitaciones, piscina, 2 garages, frente al lago calima",
+        "zone": "Sur",
+        "city": "Calima",
+        "neighbord": "Darien",
+        "type": "Alquiler"
+    },
+    {
+        "id": "4",
+        "id_owner": "2",
+        "title": "Lote para la venta",
+        "price": 4000000,
+        "photos": "4.jpg",
+        "description": "Lote de 50000 metros cuadrados",
+        "zone": "Norte",
+        "city": "Cali",
+        "neighbord": "La Flora",
+        "type": "Venta"
+    }
+]
